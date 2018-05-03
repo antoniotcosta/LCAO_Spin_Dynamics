@@ -1,0 +1,5 @@
+These are the codes to calculate the self-consistent ground state and 
+the spin excitation spectrum of isolated adatoms adsorbed to an infinite
+substrate. Although they feature parameters related to the number of
+adatoms, their values must be set to one in this version of the codes.
+The version for a general number of adatoms is under development.
